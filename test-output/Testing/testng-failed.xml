@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Testing]">
+  <test name="TestNGAstra(failed)">
+    <classes>
+      <class name="com.workpackages.base.Login">
+        <methods>
+          <include name="Openmainspring"/>
+        </methods>
+      </class> <!-- com.workpackages.base.Login -->
+      <class name="com.workpackages.Astraze_menu.Formfill">
+        <methods>
+          <include name="AstraForm"/>
+          <include name="quitBrowser"/>
+        </methods>
+      </class> <!-- com.workpackages.Astraze_menu.Formfill -->
+    </classes>
+  </test> <!-- TestNGAstra(failed) -->
+</suite> <!-- Failed suite [Testing] -->
