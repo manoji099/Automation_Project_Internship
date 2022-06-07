@@ -6,7 +6,9 @@
       <class name="com.workpackages.base.Login">
         <methods>
           <include name="mainspring"/>
+          <include name="menu"/>
           <include name="quitBrowser"/>
+          <include name="AstraForm"/>
           <include name="reportGenerate"/>
           <include name="reportFlush"/>
           <include name="Openmainspring"/>

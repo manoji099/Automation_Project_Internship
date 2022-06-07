@@ -1,1 +1,4 @@
 /target/
+test-output/*
+src/test/resources/com/workpackages/screenShot*
+Report/*

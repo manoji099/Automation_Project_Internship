@@ -2,36 +2,36 @@
 <testng-results skipped="0" failed="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="105539" started-at="2021-05-20T06:42:27Z" finished-at="2021-05-20T06:44:12Z">
+  <suite name="Default suite" duration-ms="90815" started-at="2022-06-07T11:00:06Z" finished-at="2022-06-07T11:01:37Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="105539" started-at="2021-05-20T06:42:27Z" finished-at="2021-05-20T06:44:12Z">
+    <test name="Default test" duration-ms="90815" started-at="2022-06-07T11:00:06Z" finished-at="2022-06-07T11:01:37Z">
       <class name="com.workpackages.base.Login">
-        <test-method status="PASS" signature="Openmainspring()[pri:0, instance:com.workpackages.base.Login@366e2eef]" name="Openmainspring" is-config="true" duration-ms="14760" started-at="2021-05-20T12:12:12Z" finished-at="2021-05-20T12:12:27Z">
+        <test-method status="PASS" signature="Openmainspring()[pri:0, instance:com.workpackages.base.Login@2d3fcdbd]" name="Openmainspring" is-config="true" duration-ms="8379" started-at="2022-06-07T16:29:58Z" finished-at="2022-06-07T16:30:06Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Openmainspring -->
-        <test-method status="PASS" signature="reportGenerate()[pri:0, instance:com.workpackages.base.Login@366e2eef]" name="reportGenerate" is-config="true" duration-ms="829" started-at="2021-05-20T12:12:27Z" finished-at="2021-05-20T12:12:28Z">
+        <test-method status="PASS" signature="reportGenerate()[pri:0, instance:com.workpackages.base.Login@2d3fcdbd]" name="reportGenerate" is-config="true" duration-ms="96" started-at="2022-06-07T16:30:06Z" finished-at="2022-06-07T16:30:06Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- reportGenerate -->
-        <test-method status="PASS" signature="mainspring()[pri:0, instance:com.workpackages.base.Login@366e2eef]" name="mainspring" duration-ms="56194" started-at="2021-05-20T12:12:28Z" finished-at="2021-05-20T12:13:24Z">
+        <test-method status="PASS" signature="mainspring()[pri:0, instance:com.workpackages.base.Login@2d3fcdbd]" name="mainspring" duration-ms="53472" started-at="2022-06-07T16:30:06Z" finished-at="2022-06-07T16:31:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- mainspring -->
-        <test-method status="PASS" signature="menu()[pri:0, instance:com.workpackages.base.Login@366e2eef]" name="menu" duration-ms="17112" started-at="2021-05-20T12:13:24Z" finished-at="2021-05-20T12:13:41Z">
+        <test-method status="PASS" signature="menu()[pri:0, instance:com.workpackages.base.Login@2d3fcdbd]" name="menu" duration-ms="34575" started-at="2022-06-07T16:31:00Z" finished-at="2022-06-07T16:31:34Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- menu -->
-        <test-method status="PASS" signature="AstraForm()[pri:0, instance:com.workpackages.base.Login@366e2eef]" name="AstraForm" duration-ms="30461" started-at="2021-05-20T12:13:41Z" finished-at="2021-05-20T12:14:11Z">
+        <test-method status="PASS" signature="AstraForm()[pri:0, instance:com.workpackages.base.Login@2d3fcdbd]" name="AstraForm" duration-ms="2257" started-at="2022-06-07T16:31:34Z" finished-at="2022-06-07T16:31:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AstraForm -->
-        <test-method status="PASS" signature="reportFlush()[pri:0, instance:com.workpackages.base.Login@366e2eef]" name="reportFlush" is-config="true" duration-ms="901" started-at="2021-05-20T12:14:11Z" finished-at="2021-05-20T12:14:12Z">
+        <test-method status="PASS" signature="reportFlush()[pri:0, instance:com.workpackages.base.Login@2d3fcdbd]" name="reportFlush" is-config="true" duration-ms="398" started-at="2022-06-07T16:31:36Z" finished-at="2022-06-07T16:31:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- reportFlush -->
-        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:com.workpackages.base.Login@366e2eef]" name="quitBrowser" is-config="true" duration-ms="2758" started-at="2021-05-20T12:14:12Z" finished-at="2021-05-20T12:14:15Z">
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:com.workpackages.base.Login@2d3fcdbd]" name="quitBrowser" is-config="true" duration-ms="922" started-at="2022-06-07T16:31:37Z" finished-at="2022-06-07T16:31:38Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quitBrowser -->

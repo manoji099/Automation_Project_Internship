@@ -50,7 +50,7 @@ public class BaseUI {
 			if(browserName.equalsIgnoreCase("Chrome")){
 				
 				//-----------------WebDriverManager had been used---------
-				WebDriverManager.chromedriver().driverVersion("89.0.4389.23").setup();
+				WebDriverManager.chromedriver().driverVersion("102.0.5005.63").setup();
 				
 				driver =new ChromeDriver();
 				if(prop==null){

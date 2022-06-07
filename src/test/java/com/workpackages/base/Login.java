@@ -53,7 +53,7 @@ public class Login extends BaseUI {
 			// ---------------Enter UserName for Login-------------------
 			WebElement username = wait
 					.until(ExpectedConditions.visibilityOfElementLocated(By.xpath(prop.getProperty("username_xpath"))));
-			username.sendKeys("9065530@cognizant.com");
+			username.sendKeys("906830@cognizant.com");
 
 			WebElement next = driver.findElement(By.id("idSIButton9"));
 			next.click();
@@ -62,7 +62,7 @@ public class Login extends BaseUI {
 			// --------------Enter password for Login--------------------
 			WebElement password = wait.until(ExpectedConditions.visibilityOfElementLocated(
 					By.xpath(prop.getProperty("psd_xpath"))));
-			password.sendKeys("Rajamani@4446");
+			password.sendKeys("Rajamani@8052");
 			password.click();
 
 			WebElement submit = wait.until(ExpectedConditions.visibilityOfElementLocated(By.id("idSIButton9")));
